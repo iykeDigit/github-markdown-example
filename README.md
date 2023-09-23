@@ -97,11 +97,7 @@ Github extends the functionality of Markdown tables to provide more alignment an
 - **Do do this instead**
  <img width="200px" src="https://github.com/iykeDigit/example/assets/49472273/8ecb6ec6-39af-44d4-9a0a-5e24f70aff6d" />
 
-
-
-
-
-
+[Secret Window Hidden Garden](secret-window/hidden-garden.md)
 
 ## References
 - [Github](https://github.com) 
