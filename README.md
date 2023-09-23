@@ -60,7 +60,7 @@ Unhandled exception. System.IndexOutOfRangeException: Index was outside the boun
 
 
 ## Step 3 - Use Github Flavoured Markdown Task Lists
-Github extends Markdown to have a list where you can check off items<sup>[1]<sup>
+Github extends Markdown to have a list where you can check off items[^1]
 
 - [x] Finish Step 1 `:smile:`
 - [x] Finish Step 2
@@ -88,12 +88,17 @@ You can use the following markdown format to create a table
 | Partly Sunny | `:partly_sunny:`  | :partly_sunny:
 | Ringed Planet | `:ringed_planet:`  | :ringed_planet:
 ```
-Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options [<sup>[2]<sup>](#references)
+Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options [^2].
 
 ## Step 6 - How to take screenshots
 
-A screenshot is when you capture a part of your screen from your laptop, desktop or phone.
-This is not to be confused with taking a photo woth your phone.
+- A screenshot is when you capture a part of your screen from your laptop, desktop or phone.
+- This is not to be confused with taking a photo wtth your phone.
+- **Do do this instead**
+ <img width="200px" src="https://github.com/iykeDigit/example/assets/49472273/8ecb6ec6-39af-44d4-9a0a-5e24f70aff6d" />
+
+
+
 
 
 
@@ -101,10 +106,8 @@ This is not to be confused with taking a photo woth your phone.
 ## References
 - [Github](https://github.com) 
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-text) 
-
-- [GFM - Basic Writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-text) <sup>[1]<sup>
-
 - [GFM - Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet)
-- [GFM- Tables (with extensions)](https://github.github.com/gfm/#tables-extension-) <sup>[2]<sup>
+- [^1]: [GFM - Basic Writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-text) 
+[^2]: [GFM- Tables (with extensions)](https://github.github.com/gfm/#tables-extension-) 
 
 
