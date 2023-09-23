@@ -90,6 +90,14 @@ You can use the following markdown format to create a table
 ```
 Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options [<sup>[2]<sup>](#references)
 
+## Step 6 - How to take screenshots
+
+A screenshot is when you capture a part of your screen from your laptop, desktop or phone.
+This is not to be confused with taking a photo woth your phone.
+
+
+
+
 ## References
 - [Github](https://github.com) 
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-text) 
